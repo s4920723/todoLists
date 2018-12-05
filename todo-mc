@@ -1,5 +1,5 @@
-1. Improve luminance key
-2. Integrate Sphere
+1. Grade Sphere (match blacks, match depth, focus, lens distortion)
+2. Fix Sphere mattes
 3. Improve camera track
 4. Grade elements separately
 5. Ask about CG camera 
