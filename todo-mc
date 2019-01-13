@@ -1,6 +1,8 @@
-1. Grade Sphere (match blacks, match depth, focus, lens distortion)
-2. Fix Sphere mattes
-3. Improve camera track
-4. Grade elements separately
-5. Ask about CG camera 
-6. Improve fog
+1. Rethink lighting for chinooks and sphere.
+2. Match blacks for all CG elements
+3. Match grain with F_Regrain
+4. Match focus with Z-Defocus
+5. Find house
+6. Animate sphere
+7. Final Grade
+8. Try to improve hair key
